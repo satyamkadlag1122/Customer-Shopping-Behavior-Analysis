@@ -20,13 +20,19 @@ To transform customer transaction data into an interactive Power BI dashboard an
 
 ---
 
-Customer_Behaviour_Analysis/
-├── README.md
-├── Report-Customer Behaviour Analysis.pdf
-├── cleaning.ipynb
-├── customer_behaviour.pbix
-├── customer_behaviour_sql.sql
-└── customer_shopping_behavior.csv
+Customer-Behaviour-Analysis/
+│
+├── 📂 image/
+│   ├── Customer_Analysis.png
+│   ├── Product & Location Analysis.png
+│   └── Canvas image.png
+│
+├── 📄 README.md
+├── 📄 Report-Customer Behaviour Analysis.pdf
+├── 📓 cleaning.ipynb
+├── 📊 customer_behaviour.pbix
+├── 🗄️ customer_behaviour_sql.sql
+└── 📑 customer_shopping_behavior.csv
 ---
 ## 🔄 Data Pipeline
 
