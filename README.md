@@ -27,7 +27,7 @@ Customer_Behaviour_Analysis/
 ├── customer_behaviour.pbix
 ├── customer_behaviour_sql.sql
 └── customer_shopping_behavior.csv
-
+---
 ## 🔄 Data Pipeline
 
 1. Raw customer shopping data (`customer_shopping_behavior.csv`) prepared for analysis
@@ -41,7 +41,7 @@ Customer_Behaviour_Analysis/
 
 ### 1. Customer Behaviour Analysis
 
-[![Customer Behaviour Analysis](./images/Customer_Analysis.png)](./images/Customer_Analysis.png)
+[![Customer Behaviour Analysis](./image/Customer_Analysis.png)](./image/Customer_Analysis.png)
 
 Provides an overall view of customer purchasing behaviour and spending patterns.
 
@@ -49,13 +49,13 @@ Provides an overall view of customer purchasing behaviour and spending patterns.
 - Total Customers: **5,000**
 - Unique Items: **30**
 - Average Review: **3.62**
-- Total Spend: **994,182.42**
-- Average Spend: **198.84**
+- Total Spend: **₹9.94 Lakh**
+- Average Spend: **₹198.84**
 
 **Key Visuals:**
 - Revenue by Gender
 - Revenue by Category
-- Shipping Type Analysis
+- Shipping Type
 - Revenue by Season
 - Average Revenue by Location
 - Revenue by Age Distribution
@@ -71,7 +71,7 @@ Provides an overall view of customer purchasing behaviour and spending patterns.
 
 ### 2. Product & Location Analysis
 
-[![Product & Location Analysis](./images/Product & Location Analysis.png)](./images/Product & Location Analysis.png)
+[![Product & Location Analysis](./image/Product%20%26%20Location%20Analysis.png)](./image/Product%20%26%20Location%20Analysis.png)
 
 Focuses on identifying the best and worst-performing products and locations.
 
@@ -82,7 +82,7 @@ Focuses on identifying the best and worst-performing products and locations.
 - Bottom 5 Items by Average Rating
 - Low Revenue Products
 - Bottom 5 Locations by Revenue
-
+  
 ## 💡 Key Insights
 
 - **5,000 customers** and **30 unique items** were analyzed, with total customer spending of **₹9.94 lakh**.
