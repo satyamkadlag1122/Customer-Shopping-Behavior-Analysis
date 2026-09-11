@@ -71,7 +71,7 @@ Provides an overall view of customer purchasing behaviour and spending patterns.
 
 ### 2. Product & Location Analysis
 
-[![Product & Location Analysis](./images/best_worst_analysis.png)](./images/best_worst_analysis.png)
+[![Product & Location Analysis](./images/Product & Location Analysis.png)](./images/Product & Location Analysis.png)
 
 Focuses on identifying the best and worst-performing products and locations.
 
