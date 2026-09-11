@@ -19,7 +19,8 @@ To transform customer transaction data into an interactive Power BI dashboard an
 - **DAX** — Measures and KPIs
 
 ---
-
+## 📂 Project Structure
+```text
 Customer-Behaviour-Analysis/
 │
 ├── 📂 image/
@@ -33,7 +34,8 @@ Customer-Behaviour-Analysis/
 ├── 📊 customer_behaviour.pbix
 ├── 🗄️ customer_behaviour_sql.sql
 └── 📑 customer_shopping_behavior.csv
----
+```
+
 ## 🔄 Data Pipeline
 
 1. Raw customer shopping data (`customer_shopping_behavior.csv`) prepared for analysis
