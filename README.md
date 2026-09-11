@@ -1,17 +1,40 @@
-# 📊 Customer Behavior Data Analysis
+# 🛍️ Customer Behaviour Analysis Dashboard
 
-This project analyzes customer shopping behavior using **Python, SQL, and Power BI** to uncover purchasing patterns and generate actionable business insights. It demonstrates an end-to-end data analytics workflow, including data cleaning, exploratory data analysis (EDA), SQL querying, and interactive dashboard development.
+An end-to-end **Data Analytics and Power BI project** that analyzes customer purchasing behaviour, revenue, product performance, demographics, payment methods, shipping preferences, discounts, subscriptions, and location-wise performance.
+
+---
+
+## 🎯 Project Objective
+
+To transform customer transaction data into an interactive Power BI dashboard and generate actionable insights related to **customer behaviour, revenue, products, and business performance**.
+
+---
 
 ## 🛠️ Tech Stack
 
-- 🐍 Python (Pandas, NumPy, Matplotlib)
-- 🗄️ MySQL
-- 📊 Power BI
+- **Python & Pandas** — Data cleaning and EDA
+- **SQL Server** — Data storage and business analysis
+- **Power Query** — Data transformation
+- **Power BI** — Dashboard and visualization
+- **DAX** — Measures and KPIs
 
-## 📌 Key Features
+---
 
-- ✅ Data Cleaning & Preprocessing
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ SQL-Based Business Analysis
-- ✅ Interactive Power BI Dashboard
-- ✅ Business Insights & Recommendations
+## 🔄 Data Pipeline
+
+```text
+Raw Data
+   ↓
+Python + Pandas
+   ↓
+Data Cleaning & EDA
+   ↓
+SQL Server
+   ↓
+SQL Analysis
+   ↓
+Power Query
+   ↓
+Power BI + DAX
+   ↓
+Interactive Dashboard
