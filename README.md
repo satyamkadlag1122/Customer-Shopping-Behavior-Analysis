@@ -27,19 +27,33 @@ To transform customer transaction data into an interactive Power BI dashboard an
 ---
 ## 📂 Project Structure
 ```text
-Customer-Behaviour-Analysis/
+Customer-Shopping-Behavior-Analysis/
 │
-├── 📂 image/
+├── DATA/
+│   ├── Customer_Shopping_Behaviour.csv
+│   └── Customer_Shopping_Clean_Data.csv
+│
+├── Data_Cleaning/
+│   └── Customer_Shopping_Data_Cleaning.ipynb
+│
+├── EDA/
+│   └── Customer_Shopping_EDA.ipynb
+│
+├── SQL/
+│   └── Customer_Shopping_SQL_Analysis.sql
+│
+├── PowerBI/
+│   └── Customer_Shopping_Behaviour_PowerBI.pbix
+│
+├── Images/
 │   ├── Customer_Analysis.png
-│   ├── Product & Location Analysis.png
-│   └── Canvas image.png
+│   ├── Product_Location_Analysis.png
+│   └── PowerBI_Dashboard.png
 │
-├── 📄 README.md
-├── 📄 Report-Customer Behaviour Analysis.pdf
-├── 📓 cleaning.ipynb
-├── 📊 customer_behaviour.pbix
-├── 🗄️ customer_behaviour_sql.sql
-└── 📑 customer_shopping_behavior.csv
+├── Report/
+│   └── Customer_Behaviour_Analysis_Report.pdf
+│
+└── README.md
 ```
 
 ## 🔄 Data Pipeline
