@@ -18,11 +18,16 @@ To transform customer transaction data into an interactive Power BI dashboard an
 
 ## 🛠️ Tech Stack
 
-- **Python & Pandas** — Data cleaning and EDA
-- **SQL Server** — Data storage and business analysis
-- **Power Query** — Data transformation
-- **Power BI** — Dashboard and visualization
-- **DAX** — Measures and KPIs
+## 🛠️ Tech Stack
+
+- **Python** – Data Cleaning & Exploratory Data Analysis 
+- **Pandas** – Data Manipulation 
+- **NumPy** – Numerical Analysis 
+- **Matplotlib & Seaborn** – Data Visualization 
+- **SQL** – Data Analysis & Customer Insights 
+- **Power BI** – Interactive Dashboard & Reporting 
+- **DAX** – Measures & Calculations 
+- **Power Query** – Data Transformation
 
 ---
 ## 📂 Project Structure
@@ -58,13 +63,13 @@ Customer-Shopping-Behavior-Analysis/
 
 ## 🔄 Data Pipeline
 
-1. Raw customer shopping data (`customer_shopping_behavior.csv`) prepared for analysis
-2. Python and **Pandas** used for data cleaning and exploratory data analysis
-3. Cleaned data analyzed using **SQL Server** with `customer_behaviour_sql.sql`
-4. **Power Query** used for data transformation and preparation
-5. **DAX** used to create calculated measures and KPIs
-6. **Power BI** used to build interactive dashboards for customer behaviour, product performance, and location analysis
-
+1. **Raw Data Collection** – Collected customer shopping behavior data.
+2. **Data Cleaning** – Cleaned and prepared the data for analysis.
+3. **EDA** – Explored customer behavior and purchasing patterns using Python.
+4. **SQL Analysis** – Analyzed customer insights and sales trends using SQL.
+5. **Power BI Dashboard** – Created an interactive dashboard with key insights.
+6. **Business Insights** – Generated actionable insights from the analysis.
+   
 ## 📊 Dashboard Pages
 
 ### 1. Customer Behaviour Analysis
