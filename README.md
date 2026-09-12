@@ -63,12 +63,19 @@ Customer-Shopping-Behavior-Analysis/
 
 ## 🔄 Data Pipeline
 
-1. **Raw Data Collection** – Collected customer shopping behavior data.
-2. **Data Cleaning** – Cleaned and prepared the data for analysis.
-3. **EDA** – Explored customer behavior and purchasing patterns using Python.
-4. **SQL Analysis** – Analyzed customer insights and sales trends using SQL.
-5. **Power BI Dashboard** – Created an interactive dashboard with key insights.
-6. **Business Insights** – Generated actionable insights from the analysis.
+## 🔄 Data Pipeline
+
+1. **Raw Data Collection** – Collected customer shopping behavior data containing customer, product, purchase, and demographic information.
+
+2. **Data Cleaning** – Handled missing values, corrected data types, removed inconsistencies, and prepared the dataset for analysis.
+
+3. **Exploratory Data Analysis (EDA)** – Analyzed customer behavior, purchasing patterns, product trends, and key relationships using Python.
+
+4. **SQL Analysis** – Used SQL queries to generate customer insights, sales metrics, rankings, and business-focused analysis.
+
+5. **Power BI Dashboard** – Built an interactive dashboard with KPIs, charts, filters, and customer/product insights.
+
+6. **Business Insights** – Converted analytical findings into actionable insights to understand customer preferences and purchasing behavior.
    
 ## 📊 Dashboard Pages
 
