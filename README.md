@@ -1,10 +1,26 @@
 # 🛍️ Customer Behaviour Analysis Dashboard
 
+An end-to-end **Data Analytics and Power BI project** that analyzes customer purchasing behaviour, revenue, product performance, demographics, payment methods, shipping preferences, and location-wise performance.
 
-## 🎯 Project Objective
+## 💼 Business Problem
 
-To transform customer transaction data into an interactive Power BI dashboard and generate actionable insights related to **customer behaviour, revenue, products, and business performance**.
+Businesses generate large amounts of customer transaction data, making it difficult to understand **customer preferences, purchasing patterns, product performance, and revenue contribution**.
 
+This project provides a centralized analytical view to identify **high-performing products, customer segments, payment preferences, and business improvement opportunities**.
+
+---
+
+## 📊 Dataset
+
+The project uses customer shopping behaviour data containing:
+
+- **👤 Customer Data** – Age, gender, location, subscription status, and demographics
+- **🛍️ Purchase Data** – Products, categories, purchase amount, discounts, and ratings
+- **💳 Payment Data** – Payment methods and transaction information
+- **🚚 Shipping Data** – Shipping types and customer preferences
+- **📅 Seasonal Data** – Purchase patterns across different seasons
+
+---
 
 ## 🛠️ Tech Stack
 
