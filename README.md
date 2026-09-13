@@ -52,9 +52,6 @@ Focuses on identifying the best and worst-performing products and locations.
 - **5,000 customers** and **30 unique items** were analyzed, with total customer spending of **₹9.94 lakh**.
 - **Electronics** generated the highest category revenue at approximately **₹0.38M**, followed by Accessories and Clothing.
 - **Male customers** contributed the highest revenue at approximately **₹390.96K**, followed by Female and Other customers.
-- **Headphones** generated the highest product revenue at approximately **₹138K**, followed by Phone, Bag, Laptop, and Watch.
-- **New York** recorded the highest revenue among locations at approximately **₹187.12K**.
-- **Jewelry** achieved the highest average rating of **3.8**, while Phone recorded the lowest rating among the analyzed products at **2.9**.
 - **Debit Card** was the highest revenue-generating payment method at approximately **₹253.28K**.
 - **Spring, Winter, and Summer** recorded the highest seasonal revenue at approximately **₹0.24M** each.
 - **Standard and Express** shipping types recorded the highest customer counts.
