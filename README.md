@@ -1,8 +1,5 @@
 # 🛍️ Customer Behaviour Analysis Dashboard
 
-An end-to-end **Data Analytics and Power BI project** that analyzes customer purchasing behaviour, revenue, product performance, demographics, payment methods, shipping preferences, discounts, subscriptions, and location-wise performance.
-
----
 
 ## 🎯 Project Objective
 
