@@ -12,13 +12,9 @@ This project provides a centralized analytical view to identify **high-performin
 
 ## 📊 Dataset
 
-The project uses customer shopping behaviour data containing:
+## 📊 Dataset
 
-- **👤 Customer Data** – Age, gender, location, subscription status, and demographics
-- **🛍️ Purchase Data** – Products, categories, purchase amount, discounts, and ratings
-- **💳 Payment Data** – Payment methods and transaction information
-- **🚚 Shipping Data** – Shipping types and customer preferences
-- **📅 Seasonal Data** – Purchase patterns across different seasons
+Customer shopping behaviour data containing **customer, purchase, product, payment, shipping, and demographic information**.
 
 ---
 
