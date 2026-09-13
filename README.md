@@ -38,29 +38,6 @@ To transform customer transaction data into an interactive Power BI dashboard an
 [![Customer Behaviour Analysis](./image/Customer_Analysis.png)](./image/Customer_Analysis.png)
 
 Provides an overall view of customer purchasing behaviour and spending patterns.
-
-**Key KPIs:**
-- Total Customers: **5,000**
-- Unique Items: **30**
-- Average Review: **3.62**
-- Total Spend: **₹9.94 Lakh**
-- Average Spend: **₹198.84**
-
-**Key Visuals:**
-- Revenue by Gender
-- Revenue by Category
-- Shipping Type
-- Revenue by Season
-- Average Revenue by Location
-- Revenue by Age Distribution
-- Revenue by Payment Method
-
-**Filters:**
-- Category
-- Gender
-- Discount Applied
-- Subscription Status
-
 ---
 
 ### 2. Product & Location Analysis
@@ -69,13 +46,6 @@ Provides an overall view of customer purchasing behaviour and spending patterns.
 
 Focuses on identifying the best and worst-performing products and locations.
 
-**Key Visuals:**
-- Top 5 Items by Average Rating
-- Top 5 Items by Revenue
-- Top 5 Locations by Revenue
-- Bottom 5 Items by Average Rating
-- Low Revenue Products
-- Bottom 5 Locations by Revenue
   
 ## 💡 Key Insights
 
