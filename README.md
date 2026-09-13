@@ -17,39 +17,6 @@ To transform customer transaction data into an interactive Power BI dashboard an
 - **DAX** – Measures & Calculations 
 - **Power Query** – Data Transformation
 
----
-## 📂 Project Structure
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── DATA/
-│   ├── Customer_Shopping_Behaviour.csv
-│   └── Customer_Shopping_Clean_Data.csv
-│
-├── Data_Cleaning/
-│   └── Customer_Shopping_Data_Cleaning.ipynb
-│
-├── EDA/
-│   └── Customer_Shopping_EDA.ipynb
-│
-├── SQL/
-│   └── Customer_Shopping_SQL_Analysis.sql
-│
-├── PowerBI/
-│   └── Customer_Shopping_Behaviour_PowerBI.pbix
-│
-├── Images/
-│   ├── Customer_Analysis.png
-│   ├── Product_Location_Analysis.png
-│   └── PowerBI_Dashboard.png
-│
-├── Report/
-│   └── Customer_Behaviour_Analysis_Report.pdf
-│
-└── README.md
-```
-
-
 ## 🔄 Data Pipeline
 
 1. **Raw Data Collection** – Collected customer shopping behavior data containing customer, product, purchase, and demographic information.
