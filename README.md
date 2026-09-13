@@ -9,9 +9,6 @@ Businesses generate large amounts of customer transaction data, making it diffic
 This project provides a centralized analytical view to identify **high-performing products, customer segments, payment preferences, and business improvement opportunities**.
 
 ---
-
-## 📊 Dataset
-
 ## 📊 Dataset
 
 Customer shopping behaviour data containing **customer, purchase, product, payment, shipping, and demographic information**.
