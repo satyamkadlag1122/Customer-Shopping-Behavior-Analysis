@@ -9,14 +9,6 @@ An end-to-end **Data Analytics and Power BI project** that analyzes customer pur
 To transform customer transaction data into an interactive Power BI dashboard and generate actionable insights related to **customer behaviour, revenue, products, and business performance**.
 
 
-## 🔗 Live Dashboard
-
-[![View Live Dashboard](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-blue?logo=powerbi)](https://app.powerbi.com/reportEmbed?reportId=93b5987a-dab4-478b-a2e7-12542f6e0d8c&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)
-
-👉 **[View Live Customer Behaviour Analysis Dashboard](https://app.powerbi.com/reportEmbed?reportId=93b5987a-dab4-478b-a2e7-12542f6e0d8c&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)**
----
-
-
 ## 🛠️ Tech Stack
 
 - **Python** – Data Cleaning & Exploratory Data Analysis 
